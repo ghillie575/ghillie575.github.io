@@ -1,0 +1,31 @@
+<map id="SGL::Component" name="SGL::Component">
+<area shape="rect" id="Node000001" title="Base class for all components in the SGL framework. Components are attached to GameObjects and provid..." alt="" coords="875,205,1005,231"/>
+<area shape="rect" id="Node000002" href="$classSGL_1_1Transform.html" title="A class representing a 3D transformation, including position, rotation, and scaling." alt="" coords="357,89,477,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="491,100,583,109,676,129,767,155,906,203,905,208,766,160,675,134,582,114,491,105"/>
+<area shape="rect" id="Node000003" href="$classSGL_1_1GameObject.html" title=" " alt="" coords="607,205,743,231"/>
+<area shape="poly" id="edge14_Node000003_Node000002" title=" " alt="" coords="478,116,530,134,584,157,624,180,658,203,655,207,621,185,581,162,528,139,476,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="757,215,875,215,875,221,757,221"/>
+<area shape="rect" id="Node000004" href="$classSGL_1_1Window.html" title=" " alt="" coords="364,144,471,169"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="485,170,621,203,620,208,483,175"/>
+<area shape="rect" id="Node000005" href="$classSGL_1_1PhysicsWorld.html" title="Represents the physics world, managing the physics simulation and related resources." alt="" coords="34,104,175,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="189,125,364,147,363,153,189,130"/>
+<area shape="rect" id="Node000006" href="$classSGL_1_1Camera.html" title="A class representing a 3D camera for rendering scenes. Provides functionality for camera movement,..." alt="" coords="51,153,158,179"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="172,162,329,158,364,157,364,162,329,163,172,167"/>
+<area shape="rect" id="Node000007" href="$classSGL_1_1Time.html" title="A class to manage and provide time&#45;related utilities." alt="" coords="61,203,149,228"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="162,208,241,198,329,182,381,167,382,172,330,187,242,203,163,213"/>
+<area shape="rect" id="Node000008" href="$classSGL_1_1Lightning_1_1Enviroment.html" title="Represents the environment settings for lighting in a scene." alt="" coords="5,5,204,31"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="219,20,278,36,306,49,331,67,342,81,345,96,347,110,355,124,380,142,377,146,351,128,342,112,340,97,337,83,327,71,303,54,276,41,217,25"/>
+<area shape="rect" id="Node000009" href="$classSGL_1_1ObjectFactory.html" title=" " alt="" coords="33,55,177,80"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="191,77,259,91,330,112,355,124,391,141,389,146,352,128,328,116,258,96,190,82"/>
+<area shape="rect" id="Node000010" href="$classSGL_1_1PhysObject.html" title="Represents a physical object in the physics simulation." alt="" coords="353,253,481,279"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="494,251,582,235,617,228,618,233,583,241,495,256"/>
+<area shape="rect" id="Node000011" href="$classSGL_1_1PhysProperties.html" title="A class representing the physical properties of an object." alt="" coords="29,252,181,277"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="195,262,353,263,353,268,195,268"/>
+<area shape="rect" id="Node000012" href="$classSGL_1_1Shader.html" title="Represents a shader program in OpenGL. This class provides functionality to load, compile,..." alt="" coords="367,304,467,329"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="480,302,531,288,582,270,621,250,654,228,657,233,624,254,584,275,532,293,482,307"/>
+<area shape="rect" id="Node000013" href="$classSGL_1_1Logger.html" title="A simple logger class for logging messages with different log levels." alt="" coords="55,333,154,359"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="168,347,311,349,396,347,481,339,605,317,725,287,829,254,904,228,906,233,831,259,727,292,606,323,482,345,397,352,312,355,168,352"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="167,338,367,319,368,324,168,343"/>
+<area shape="rect" id="Node000014" href="$structSGL_1_1Material.html" title="Represents a material with properties for rendering." alt="" coords="363,204,472,229"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="486,214,606,215,606,220,486,220"/>
+</map>
