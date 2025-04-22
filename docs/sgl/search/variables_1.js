@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['a_0',['a',['../structglm_1_1vec_3_014_00_01T_00_01Q_01_4.html#a2c591708237bac7d2047ff5af383a012',1,'glm::vec&lt; 4, T, Q &gt;']]],
-  ['actor_1',['actor',['../classSGL_1_1PhysObject.html#a9d461505ae4e41015483d47df2156e5a',1,'SGL::PhysObject']]],
-  ['ambient_2',['ambient',['../structSGL_1_1Material.html#afa759ffcc6540e47269f9733982e79f6',1,'SGL::Material']]],
-  ['ambientstrenght_3',['ambientStrenght',['../classSGL_1_1Lightning_1_1Enviroment.html#a808511ed6e4e000dd26b44276669e413',1,'SGL::Lightning::Enviroment']]],
-  ['array_5fiterator_4',['array_iterator',['../structdetail_1_1internal__iterator.html#a2ad2dc9ea8bba2b50811e34f905350bd',1,'detail::internal_iterator']]]
+  ['camera_0',['camera',['../classSGL_1_1Window.html#abaf4164bf8f3dd426640d8d67d783085',1,'SGL::Window']]],
+  ['camerafront_1',['cameraFront',['../classSGL_1_1Camera.html#ae0e39452302d9916bc25b198e1f9b87d',1,'SGL::Camera']]],
+  ['camerapos_2',['cameraPos',['../classSGL_1_1Camera.html#a5f99fe7659d1ea0cdae059faa3299e09',1,'SGL::Camera']]],
+  ['camspeed_3',['camSpeed',['../classSGL_1_1FreeFlyCam.html#a465cc9cdb92edba6bdada47f71ef9bf4',1,'SGL::FreeFlyCam']]],
+  ['color_4',['color',['../classSGL_1_1LayoutManaging_1_1LayoutObject.html#a1d31cbefcbc223ac6166e47e9a259cc8',1,'SGL::LayoutManaging::LayoutObject::color'],['../structSGL_1_1Material.html#abec10f12c97eca3efbac4e4b9dd5ef52',1,'SGL::Material::color']]],
+  ['compilelogger_5',['compileLogger',['../classSGL_1_1Shader.html#a01acb13f3f20bdcb0921c53f36b04895',1,'SGL::Shader']]],
+  ['components_6',['components',['../classSGL_1_1GameObject.html#a9d8b8efec1894a379cc31d05c2a62e82',1,'SGL::GameObject::components'],['../classSGL_1_1SceneObject.html#adaed3f230a2c263f56a19cbd78a879d6',1,'SGL::SceneObject::components']]]
 ];

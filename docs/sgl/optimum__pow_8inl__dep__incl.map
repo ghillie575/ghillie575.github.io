@@ -1,9 +1,0 @@
-<map id="include/glm/gtx/optimum_pow.inl" name="include/glm/gtx/optimum_pow.inl">
-<area shape="rect" id="Node000001" title=" " alt="" coords="108,5,295,45"/>
-<area shape="rect" id="Node000002" href="$optimum__pow_8hpp.html" title=" " alt="" coords="108,93,295,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,59,204,93,199,93,199,59"/>
-<area shape="rect" id="Node000003" href="$gradient__paint_8hpp.html" title=" " alt="" coords="5,181,187,221"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,144,121,183,118,179,166,140"/>
-<area shape="rect" id="Node000004" href="$spline_8hpp.html" title=" " alt="" coords="211,189,405,214"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="238,140,295,186,292,190,234,144"/>
-</map>

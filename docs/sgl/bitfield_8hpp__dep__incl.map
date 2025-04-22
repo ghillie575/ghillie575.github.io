@@ -1,9 +1,0 @@
-<map id="include/glm/gtc/bitfield.hpp" name="include/glm/gtc/bitfield.hpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="81,5,280,31"/>
-<area shape="rect" id="Node000002" href="$ext_8hpp.html" title=" " alt="" coords="13,79,164,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,41,105,81,102,76,154,37"/>
-<area shape="rect" id="Node000004" href="$bit_8hpp.html" title=" " alt="" coords="188,79,360,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,37,260,76,257,81,205,41"/>
-<area shape="rect" id="Node000003" href="$glm_8cppm.html" title=" " alt="" coords="5,152,172,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,118,91,152,86,152,86,118"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="SGL::Components::ColorChangeComponent" name="SGL::Components::ColorChangeComponent">
-<area shape="rect" id="Node000001" title="A component that smoothly changes the color of a GameObject&#39;s material over time." alt="" coords="5,79,233,119"/>
-<area shape="rect" id="Node000002" href="$classSGL_1_1Component.html" title="Base class for all components in the SGL framework. Components are attached to GameObjects and provid..." alt="" coords="54,5,185,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,44,122,79,117,79,117,44"/>
-</map>

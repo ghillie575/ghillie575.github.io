@@ -1,9 +1,0 @@
-<map id="include/glm/gtc/packing.inl" name="include/glm/gtc/packing.inl">
-<area shape="rect" id="Node000001" title=" " alt="" coords="9,5,207,31"/>
-<area shape="rect" id="Node000002" href="$gtc_2packing_8hpp.html" title=" " alt="" coords="5,79,211,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,44,111,79,105,79,105,44"/>
-<area shape="rect" id="Node000003" href="$ext_8hpp.html" title=" " alt="" coords="33,152,183,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,118,111,152,105,152,105,118"/>
-<area shape="rect" id="Node000004" href="$glm_8cppm.html" title=" " alt="" coords="25,225,191,251"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,191,111,225,105,225,105,191"/>
-</map>

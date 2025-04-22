@@ -86,7 +86,7 @@ $(document).ready(function() { init_codefold(0); });
 <div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="preprocessor">#define PHYSWORLD_H</span></div>
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span> </div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &lt;PxPhysicsAPI.h&gt;</span></div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#include &lt;<a class="code" href="glm_8hpp.html">glm/glm.hpp</a>&gt;</span></div>
+<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#include &lt;glm/glm.hpp&gt;</span></div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespaceSGL.html">SGL</a></div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>{</div>
@@ -123,7 +123,7 @@ $(document).ready(function() { init_codefold(0); });
 <div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span> </div>
 <div class="line"><a id="l00084" name="l00084"></a><span class="lineno"><a class="line" href="classSGL_1_1PhysicsWorld.html#a885df76cd4ef3ff17aafe07067e89acb">   84</a></span>        <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1PhysicsWorld.html#a885df76cd4ef3ff17aafe07067e89acb">removeBody</a>(physx::PxActor *body);</div>
 <div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span> </div>
-<div class="line"><a id="l00090" name="l00090"></a><span class="lineno"><a class="line" href="classSGL_1_1PhysicsWorld.html#a75382f13abaa916056969750e927a4bd">   90</a></span>        <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1PhysicsWorld.html#a75382f13abaa916056969750e927a4bd">setGravity</a>(<span class="keyword">const</span> <a class="code hl_struct" href="structglm_1_1vec.html">glm::vec3</a> &amp;gravity);</div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno"><a class="line" href="classSGL_1_1PhysicsWorld.html#a75382f13abaa916056969750e927a4bd">   90</a></span>        <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1PhysicsWorld.html#a75382f13abaa916056969750e927a4bd">setGravity</a>(<span class="keyword">const</span> glm::vec3 &amp;gravity);</div>
 <div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>    };</div>
 </div>
 <div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>}</div>
@@ -140,9 +140,7 @@ $(document).ready(function() { init_codefold(0); });
 <div class="ttc" id="aclassSGL_1_1PhysicsWorld_html_aa07606b9b7efefa3ef65ca65760889c5"><div class="ttname"><a href="classSGL_1_1PhysicsWorld.html#aa07606b9b7efefa3ef65ca65760889c5">SGL::PhysicsWorld::addBody</a></div><div class="ttdeci">void addBody(physx::PxActor *body)</div><div class="ttdoc">Adds a physics body (actor) to the simulation.</div></div>
 <div class="ttc" id="aclassSGL_1_1PhysicsWorld_html_aa880dccf463fad57442f14d05852c188"><div class="ttname"><a href="classSGL_1_1PhysicsWorld.html#aa880dccf463fad57442f14d05852c188">SGL::PhysicsWorld::initializePhysics</a></div><div class="ttdeci">void initializePhysics()</div><div class="ttdoc">Initializes the physics engine and sets up the necessary resources.</div></div>
 <div class="ttc" id="aclassSGL_1_1PhysicsWorld_html_ac856587b94488e41f3099e27b4c97784"><div class="ttname"><a href="classSGL_1_1PhysicsWorld.html#ac856587b94488e41f3099e27b4c97784">SGL::PhysicsWorld::processPhysics</a></div><div class="ttdeci">bool processPhysics</div><div class="ttdoc">Indicates whether the physics simulation should be processed.</div><div class="ttdef"><b>Definition</b> physics_world.h:51</div></div>
-<div class="ttc" id="aglm_8hpp_html"><div class="ttname"><a href="glm_8hpp.html">glm.hpp</a></div></div>
 <div class="ttc" id="anamespaceSGL_html"><div class="ttname"><a href="namespaceSGL.html">SGL</a></div><div class="ttdef"><b>Definition</b> camera.h:9</div></div>
-<div class="ttc" id="astructglm_1_1vec_html"><div class="ttname"><a href="structglm_1_1vec.html">glm::vec</a></div><div class="ttdef"><b>Definition</b> qualifier.hpp:35</div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

@@ -1,9 +1,0 @@
-<map id="include/glm/ext/scalar_packing.inl" name="include/glm/ext/scalar_packing.inl">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,172,45"/>
-<area shape="rect" id="Node000002" href="$scalar__packing_8hpp.html" title=" " alt="" coords="5,93,172,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,59,91,93,86,93,86,59"/>
-<area shape="rect" id="Node000003" href="$ext_8hpp.html" title=" " alt="" coords="13,181,164,207"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,147,91,181,86,181,86,147"/>
-<area shape="rect" id="Node000004" href="$glm_8cppm.html" title=" " alt="" coords="5,255,172,280"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,220,91,255,86,255,86,220"/>
-</map>

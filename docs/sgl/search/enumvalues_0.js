@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['array_0',['array',['../namespacedetail.html#a917c3efabea8a20dc72d9ae2c673d632af1f713c9e000f5d3f280adbd124df4f5',1,'detail']]]
+  ['component_0',['COMPONENT',['../namespaceSGL.html#af30bfc53f08f10f88a3256e744822efbabf937b3134b62a5bff8eaff13d35ef5b',1,'SGL']]]
 ];
