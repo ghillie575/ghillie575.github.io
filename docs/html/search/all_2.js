@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['camera_0',['camera',['../classSGL_1_1Camera.html',1,'SGL::Camera'],['../classSGL_1_1Camera.html#a1cf5e083987ccdb62fd598bb1917d38a',1,'SGL::Camera::Camera()'],['../classSGL_1_1Window.html#abaf4164bf8f3dd426640d8d67d783085',1,'SGL::Window::camera']]],
+  ['camera_2eh_1',['camera.h',['../camera_8h.html',1,'']]],
+  ['camerafront_2',['cameraFront',['../classSGL_1_1Camera.html#ae0e39452302d9916bc25b198e1f9b87d',1,'SGL::Camera']]],
+  ['camerapos_3',['cameraPos',['../classSGL_1_1Camera.html#a5f99fe7659d1ea0cdae059faa3299e09',1,'SGL::Camera']]],
+  ['camspeed_4',['camSpeed',['../classSGL_1_1FreeFlyCam.html#a465cc9cdb92edba6bdada47f71ef9bf4',1,'SGL::FreeFlyCam']]],
+  ['chrome_5',['chrome',['../namespaceSGL_1_1Materials.html#a6d0df6ecb727caca0a927a2adcdfd1af',1,'SGL::Materials']]],
+  ['close_6',['close',['../classSGL_1_1SGLLibrary.html#aba17ff36353ddd5eba29682d88217ec2',1,'SGL::SGLLibrary::close()'],['../classSGL_1_1Window.html#ab68d4e5d08aad2984bf1a3d212c43cd2',1,'SGL::Window::close()']]],
+  ['colider_5fbox_2eh_7',['colider_box.h',['../colider__box_8h.html',1,'']]],
+  ['color_8',['color',['../structSGL_1_1Material.html#abec10f12c97eca3efbac4e4b9dd5ef52',1,'SGL::Material::color'],['../classSGL_1_1LayoutManaging_1_1LayoutObject.html#a1d31cbefcbc223ac6166e47e9a259cc8',1,'SGL::LayoutManaging::LayoutObject::color']]],
+  ['colorchange_2eh_9',['ColorChange.h',['../ColorChange_8h.html',1,'']]],
+  ['colorchangecomponent_10',['colorchangecomponent',['../classSGL_1_1Components_1_1ColorChangeComponent.html',1,'SGL::Components::ColorChangeComponent'],['../classSGL_1_1Components_1_1ColorChangeComponent.html#a271e2ecf17519931bd7e90773cce07b4',1,'SGL::Components::ColorChangeComponent::ColorChangeComponent()']]],
+  ['compilelogger_11',['compileLogger',['../classSGL_1_1Shader.html#a01acb13f3f20bdcb0921c53f36b04895',1,'SGL::Shader']]],
+  ['component_12',['component',['../classSGL_1_1Component.html#a24021e6309a91beb0c95704d5b0ee849',1,'SGL::Component::Component(std::string name)'],['../classSGL_1_1Component.html#a0557cc397599fbe4160f57173dc841aa',1,'SGL::Component::Component()'],['../classSGL_1_1Component.html',1,'SGL::Component'],['../namespaceSGL.html#af30bfc53f08f10f88a3256e744822efbabf937b3134b62a5bff8eaff13d35ef5b',1,'SGL::COMPONENT']]],
+  ['component_2eh_13',['component.h',['../component_8h.html',1,'']]],
+  ['components_14',['components',['../classSGL_1_1GameObject.html#a9d8b8efec1894a379cc31d05c2a62e82',1,'SGL::GameObject::components'],['../classSGL_1_1SceneObject.html#adaed3f230a2c263f56a19cbd78a879d6',1,'SGL::SceneObject::components']]],
+  ['copper_15',['copper',['../namespaceSGL_1_1Materials.html#a77a3ace4022caf4abfc054eb90a74078',1,'SGL::Materials']]],
+  ['createcomponent_16',['createComponent',['../classSGL_1_1ObjectFactory.html#afb1ce7ac0b6a470225496092bced6fb0',1,'SGL::ObjectFactory']]],
+  ['createlayout_17',['createLayout',['../namespaceSGL_1_1LayoutManaging.html#a5c6bb50a68dfff8c7de2a7ff4c1a62e0',1,'SGL::LayoutManaging']]],
+  ['createobject_18',['createObject',['../classSGL_1_1ObjectFactory.html#ab98eea2aa8d3301087bdf7ef1f4a121d',1,'SGL::ObjectFactory']]],
+  ['createscene_19',['createScene',['../namespaceSGL.html#ab6c7eeda6f1ae1c4bd36d3b2293e42d8',1,'SGL']]],
+  ['cube_20',['Cube',['../classSGL_1_1GameObjects_1_1Cube.html',1,'SGL::GameObjects']]],
+  ['cube_2eh_21',['cube.h',['../cube_8h.html',1,'']]]
+];

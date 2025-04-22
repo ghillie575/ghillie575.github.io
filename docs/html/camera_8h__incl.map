@@ -1,0 +1,9 @@
+<map id="include/SGL/camera.h" name="include/SGL/camera.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,5,324,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,109,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,33,101,76,99,71,212,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="134,79,351,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,31,245,65,240,65,240,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="375,79,531,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="277,28,407,72,406,77,276,33"/>
+</map>

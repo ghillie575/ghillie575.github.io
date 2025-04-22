@@ -1,0 +1,5 @@
+<map id="RBStatic" name="RBStatic">
+<area shape="rect" id="Node000001" title="A component representing a static rigid body in the physics simulation." alt="" coords="32,79,109,104"/>
+<area shape="rect" id="Node000002" href="$classSGL_1_1Component.html" title="Base class for all components in the SGL framework. Components are attached to GameObjects and provid..." alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,44,73,79,68,79,68,44"/>
+</map>
