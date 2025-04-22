@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['window_0',['Window',['../classSGL_1_1Window.html',1,'SGL']]]
+  ['negation_0',['negation',['../structdetail_1_1negation.html',1,'detail']]],
+  ['nonesuch_1',['nonesuch',['../structdetail_1_1nonesuch.html',1,'detail']]]
 ];

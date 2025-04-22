@@ -1,0 +1,12 @@
+<map id="include/glm/ext/vector_integer.hpp" name="include/glm/ext/vector_integer.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,173,45"/>
+<area shape="rect" id="Node000002" href="$ext_8hpp.html" title=" " alt="" coords="17,240,167,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,58,56,94,46,143,48,164,55,191,67,217,83,238,79,241,63,220,49,193,43,165,41,143,51,93,67,56"/>
+<area shape="rect" id="Node000004" href="$round_8inl.html" title=" " alt="" coords="65,93,247,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="116,54,148,91,144,95,112,58"/>
+<area shape="rect" id="Node000003" href="$glm_8cppm.html" title=" " alt="" coords="9,313,175,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,279,95,313,89,313,89,279"/>
+<area shape="rect" id="Node000005" href="$round_8hpp.html" title=" " alt="" coords="63,167,254,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="160,132,161,166,156,167,154,133"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="140,204,105,242,101,238,136,201"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Recommended extensions" name="Recommended extensions">
+<area shape="rect" id="Node000001" title="Additional features not specified by GLSL specification." alt="" coords="5,475,200,500"/>
+<area shape="rect" id="Node000002" href="$group__gtc__bitfield.html" title=" " alt="" coords="283,5,419,31"/>
+<area shape="rect" id="Node000003" href="$group__gtc__color__space.html" title=" " alt="" coords="267,55,435,80"/>
+<area shape="rect" id="Node000004" href="$group__gtc__constants.html" title=" " alt="" coords="273,104,428,129"/>
+<area shape="rect" id="Node000005" href="$group__gtc__epsilon.html" title=" " alt="" coords="281,153,420,179"/>
+<area shape="rect" id="Node000006" href="$group__gtc__integer.html" title="Allow to perform bit operations on integer values." alt="" coords="282,203,419,228"/>
+<area shape="rect" id="Node000007" href="$group__gtc__matrix__access.html" title=" " alt="" coords="258,252,443,277"/>
+<area shape="rect" id="Node000008" href="$group__gtc__matrix__integer.html" title=" " alt="" coords="257,301,444,327"/>
+<area shape="rect" id="Node000009" href="$group__gtc__matrix__inverse.html" title=" " alt="" coords="256,351,445,376"/>
+<area shape="rect" id="Node000010" href="$group__gtc__matrix__transform.html" title=" " alt="" coords="248,400,453,425"/>
+<area shape="rect" id="Node000011" href="$group__gtc__noise.html" title=" " alt="" coords="287,449,414,475"/>
+<area shape="rect" id="Node000012" href="$group__gtc__packing.html" title=" " alt="" coords="279,499,422,524"/>
+<area shape="rect" id="Node000013" href="$group__gtc__quaternion.html" title=" " alt="" coords="270,548,431,573"/>
+<area shape="rect" id="Node000014" href="$group__gtc__random.html" title=" " alt="" coords="280,597,421,623"/>
+<area shape="rect" id="Node000015" href="$group__gtc__reciprocal.html" title=" " alt="" coords="273,647,428,672"/>
+<area shape="rect" id="Node000016" href="$group__gtc__round.html" title=" " alt="" coords="287,696,415,721"/>
+<area shape="rect" id="Node000017" href="$group__gtc__type__aligned.html" title=" " alt="" coords="263,745,438,771"/>
+<area shape="rect" id="Node000018" href="$group__gtc__type__precision.html" title=" " alt="" coords="257,795,444,820"/>
+<area shape="rect" id="Node000019" href="$group__gtc__type__ptr.html" title=" " alt="" coords="278,844,423,869"/>
+<area shape="rect" id="Node000020" href="$group__gtc__ulp.html" title=" " alt="" coords="295,893,406,919"/>
+<area shape="rect" id="Node000021" href="$group__gtc__vec1.html" title=" " alt="" coords="289,943,412,968"/>
+</map>

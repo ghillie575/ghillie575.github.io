@@ -1,0 +1,12 @@
+<map id="include/glm/gtx/norm.inl" name="include/glm/gtx/norm.inl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="94,5,275,31"/>
+<area shape="rect" id="Node000002" href="$norm_8hpp.html" title=" " alt="" coords="90,79,279,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,44,187,79,182,79,182,44"/>
+<area shape="rect" id="Node000003" href="$gtx_2quaternion_8hpp.html" title=" " alt="" coords="72,152,297,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,118,180,152,175,152,173,118"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="191,139,189,104,194,104,196,138"/>
+<area shape="rect" id="Node000004" href="$io_8hpp.html" title=" " alt="" coords="5,233,172,258"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="162,188,105,235,101,230,158,184"/>
+<area shape="rect" id="Node000005" href="$vector__angle_8hpp.html" title=" " alt="" coords="197,225,365,265"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="211,184,259,223,256,227,208,188"/>
+</map>

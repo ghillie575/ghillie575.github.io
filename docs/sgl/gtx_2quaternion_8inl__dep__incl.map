@@ -1,0 +1,12 @@
+<map id="include/glm/gtx/quaternion.inl" name="include/glm/gtx/quaternion.inl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="183,5,400,31"/>
+<area shape="rect" id="Node000002" href="$gtx_2quaternion_8hpp.html" title=" " alt="" coords="179,79,404,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,44,294,79,289,79,289,44"/>
+<area shape="rect" id="Node000003" href="$io_8hpp.html" title=" " alt="" coords="5,159,172,185"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,111,119,162,117,157,248,106"/>
+<area shape="rect" id="Node000004" href="$norm_8hpp.html" title=" " alt="" coords="197,159,386,185"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="286,118,287,159,282,159,280,118"/>
+<area shape="rect" id="Node000005" href="$vector__angle_8hpp.html" title=" " alt="" coords="410,152,578,192"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="334,106,446,149,444,154,333,111"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="297,146,295,104,301,104,302,145"/>
+</map>

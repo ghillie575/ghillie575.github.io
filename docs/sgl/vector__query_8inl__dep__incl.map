@@ -1,0 +1,9 @@
+<map id="include/glm/gtx/vector_query.inl" name="include/glm/gtx/vector_query.inl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,5,303,45"/>
+<area shape="rect" id="Node000002" href="$vector__query_8hpp.html" title=" " alt="" coords="135,93,303,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,59,222,93,217,93,217,59"/>
+<area shape="rect" id="Node000003" href="$intersect_8hpp.html" title=" " alt="" coords="5,189,217,214"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,144,128,190,125,186,183,140"/>
+<area shape="rect" id="Node000004" href="$matrix__query_8hpp.html" title=" " alt="" coords="242,181,413,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="256,140,305,179,302,183,252,144"/>
+</map>

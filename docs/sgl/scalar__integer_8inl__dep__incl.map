@@ -1,0 +1,19 @@
+<map id="include/glm/ext/scalar_integer.inl" name="include/glm/ext/scalar_integer.inl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,5,181,45"/>
+<area shape="rect" id="Node000002" href="$scalar__integer_8hpp.html" title=" " alt="" coords="15,93,181,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,59,101,93,95,93,95,59"/>
+<area shape="rect" id="Node000003" href="$ext_8hpp.html" title=" " alt="" coords="13,504,164,529"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,146,66,182,47,234,42,258,41,288,41,371,45,410,57,447,84,503,79,505,52,449,40,411,35,371,35,288,37,257,42,233,61,180,78,144"/>
+<area shape="rect" id="Node000005" href="$vector__integer_8inl.html" title=" " alt="" coords="75,181,243,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="122,143,148,180,144,183,117,146"/>
+<area shape="rect" id="Node000004" href="$glm_8cppm.html" title=" " alt="" coords="5,577,172,603"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,543,91,577,86,577,86,543"/>
+<area shape="rect" id="Node000006" href="$vector__integer_8hpp.html" title=" " alt="" coords="75,269,243,309"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="162,235,162,269,157,269,157,235"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="139,322,119,358,107,399,98,441,92,504,87,504,93,440,101,398,114,356,134,319"/>
+<area shape="rect" id="Node000007" href="$round_8inl.html" title=" " alt="" coords="128,357,311,383"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="184,319,212,355,208,359,180,322"/>
+<area shape="rect" id="Node000008" href="$round_8hpp.html" title=" " alt="" coords="127,431,317,456"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="223,396,224,430,219,431,218,397"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="190,465,112,506,109,501,187,460"/>
+</map>

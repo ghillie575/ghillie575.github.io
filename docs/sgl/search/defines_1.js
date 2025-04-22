@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['sgl_5fversion_0',['SGL_VERSION',['../window_8h.html#ae3158060fc3b380b4392c6a957687660',1,'window.h']]]
+  ['apientry_0',['APIENTRY',['../glad_8h.html#a428a91acf2c2439dc1a257708ee1f805',1,'glad.h']]],
+  ['apientryp_1',['APIENTRYP',['../glad_8h.html#aef0d9e5e275e1b7becf54b6aa9ce3911',1,'glad.h']]]
 ];

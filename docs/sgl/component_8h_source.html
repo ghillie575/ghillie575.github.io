@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>SGL: /media/mikhail/Files/Projects/sgl/include/SGL/component.h Source File</title>
+<title>SGL: include/SGL/component.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -75,7 +75,7 @@ $(document).ready(function() { init_codefold(0); });
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><a class="el" href="dir_4b83485c52bddb90038859f9f5f6662f.html">sgl</a></li><li class="navelem"><a class="el" href="dir_118888aaa469264687fc8dc578752e9c.html">include</a></li><li class="navelem"><a class="el" href="dir_a466d98627875005290b48a5e3fc19b0.html">SGL</a></li>  </ul>
+<li class="navelem"><a class="el" href="dir_d44c64559bbebec7f509842c48db8b23.html">include</a></li><li class="navelem"><a class="el" href="dir_4f1a1d2e9faa9cea04422f2cd94639e2.html">SGL</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
@@ -90,7 +90,7 @@ $(document).ready(function() { init_codefold(0); });
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#include &lt;<a class="code" href="object_8h.html">SGL/object.h</a>&gt;</span></div>
 <div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &lt;unordered_map&gt;</span></div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &lt;string&gt;</span></div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#include &lt;nlohmann/json.hpp&gt;</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#include &lt;<a class="code" href="json_8hpp.html">nlohmann/json.hpp</a>&gt;</span></div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span> </div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespaceSGL.html">SGL</a> {</div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
@@ -112,18 +112,18 @@ $(document).ready(function() { init_codefold(0); });
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span> </div>
 <div class="line"><a id="l00057" name="l00057"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#acc9b87837e20aa16e1785602ea7fd048">   57</a></span>    <span class="keyword">virtual</span> <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1Component.html#acc9b87837e20aa16e1785602ea7fd048">prepare</a>();</div>
 <div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#a6541fc25d40ae448afb99ccd6971c520">   64</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1Component.html#a6541fc25d40ae448afb99ccd6971c520">setProperty</a>(std::string propName, <span class="keywordtype">void</span> *value);</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#a6541fc25d40ae448afb99ccd6971c520">   64</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1Component.html#a6541fc25d40ae448afb99ccd6971c520">setProperty</a>(std::string propName, <span class="keywordtype">void</span> *<a class="code hl_typedef" href="glad_8h.html#a949f15ec70269befe4b9289796e3a3b2">value</a>);</div>
 <div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span> </div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>    <span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</div>
 <div class="foldopen" id="foldopen00073" data-start="{" data-end="}">
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#a3c715b50aa34be21ccc622bd9260bbf2">   73</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1Component.html#a3c715b50aa34be21ccc622bd9260bbf2">setProperty</a>(std::string propName, T value) {</div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        <a class="code hl_function" href="classSGL_1_1Component.html#a6541fc25d40ae448afb99ccd6971c520">setProperty</a>(propName, <span class="keyword">static_cast&lt;</span><span class="keywordtype">void</span>*<span class="keyword">&gt;</span>(&amp;value));</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#a3c715b50aa34be21ccc622bd9260bbf2">   73</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1Component.html#a3c715b50aa34be21ccc622bd9260bbf2">setProperty</a>(std::string propName, T <a class="code hl_typedef" href="glad_8h.html#a949f15ec70269befe4b9289796e3a3b2">value</a>) {</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        <a class="code hl_function" href="classSGL_1_1Component.html#a6541fc25d40ae448afb99ccd6971c520">setProperty</a>(propName, <span class="keyword">static_cast&lt;</span><span class="keywordtype">void</span>*<span class="keyword">&gt;</span>(&amp;<a class="code hl_typedef" href="glad_8h.html#a949f15ec70269befe4b9289796e3a3b2">value</a>));</div>
 <div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>    }</div>
 </div>
 <div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span> </div>
 <div class="line"><a id="l00081" name="l00081"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#ab35b2b2a8633fd3ecd92c1659f656fea">   81</a></span>    std::string <a class="code hl_function" href="classSGL_1_1Component.html#ab35b2b2a8633fd3ecd92c1659f656fea">toJson</a>();</div>
 <div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span> </div>
-<div class="line"><a id="l00087" name="l00087"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#acfe94ab1b05506e1bdd6e502a45c80d2">   87</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1Component.html#acfe94ab1b05506e1bdd6e502a45c80d2">fromJson</a>(<span class="keyword">const</span> nlohmann::json&amp; json);</div>
+<div class="line"><a id="l00087" name="l00087"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#acfe94ab1b05506e1bdd6e502a45c80d2">   87</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1Component.html#acfe94ab1b05506e1bdd6e502a45c80d2">fromJson</a>(<span class="keyword">const</span> nlohmann::json&amp; <a class="code hl_class" href="classbasic__json.html">json</a>);</div>
 <div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span> </div>
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#a59771a2b1a24f822fc0183f9ff4e6abb">   93</a></span>    <span class="keywordtype">void</span> <a class="code hl_function" href="classSGL_1_1Component.html#a59771a2b1a24f822fc0183f9ff4e6abb">removeProperty</a>(std::string propName);</div>
 <div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span> </div>
@@ -140,7 +140,7 @@ $(document).ready(function() { init_codefold(0); });
 <div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>    }</div>
 </div>
 <div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span> </div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#a24021e6309a91beb0c95704d5b0ee849">  121</a></span>    <a class="code hl_function" href="classSGL_1_1Component.html#a24021e6309a91beb0c95704d5b0ee849">Component</a>(std::string name);</div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#a24021e6309a91beb0c95704d5b0ee849">  121</a></span>    <a class="code hl_function" href="classSGL_1_1Component.html#a24021e6309a91beb0c95704d5b0ee849">Component</a>(std::string <a class="code hl_typedef" href="glad_8h.html#a5c4947d4516dd7cfa3505ce3a648a4ef">name</a>);</div>
 <div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span> </div>
 <div class="line"><a id="l00126" name="l00126"></a><span class="lineno"><a class="line" href="classSGL_1_1Component.html#a0557cc397599fbe4160f57173dc841aa">  126</a></span>    <a class="code hl_function" href="classSGL_1_1Component.html#a0557cc397599fbe4160f57173dc841aa">Component</a>();</div>
 <div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>};</div>
@@ -168,6 +168,10 @@ $(document).ready(function() { init_codefold(0); });
 <div class="ttc" id="aclassSGL_1_1GameObject_html"><div class="ttname"><a href="classSGL_1_1GameObject.html">SGL::GameObject</a></div><div class="ttdef"><b>Definition</b> object.h:31</div></div>
 <div class="ttc" id="aclassSGL_1_1Logger_html"><div class="ttname"><a href="classSGL_1_1Logger.html">SGL::Logger</a></div><div class="ttdoc">A simple logger class for logging messages with different log levels.</div><div class="ttdef"><b>Definition</b> logger.h:21</div></div>
 <div class="ttc" id="aclassSGL_1_1Transform_html"><div class="ttname"><a href="classSGL_1_1Transform.html">SGL::Transform</a></div><div class="ttdoc">A class representing a 3D transformation, including position, rotation, and scaling.</div><div class="ttdef"><b>Definition</b> transform.h:12</div></div>
+<div class="ttc" id="aclassbasic__json_html"><div class="ttname"><a href="classbasic__json.html">basic_json</a></div><div class="ttdoc">namespace for Niels Lohmann</div><div class="ttdef"><b>Definition</b> json.hpp:19598</div></div>
+<div class="ttc" id="aglad_8h_html_a5c4947d4516dd7cfa3505ce3a648a4ef"><div class="ttname"><a href="glad_8h.html#a5c4947d4516dd7cfa3505ce3a648a4ef">name</a></div><div class="ttdeci">GLuint const GLchar * name</div><div class="ttdef"><b>Definition</b> glad.h:1225</div></div>
+<div class="ttc" id="aglad_8h_html_a949f15ec70269befe4b9289796e3a3b2"><div class="ttname"><a href="glad_8h.html#a949f15ec70269befe4b9289796e3a3b2">value</a></div><div class="ttdeci">GLsizei const GLfloat * value</div><div class="ttdef"><b>Definition</b> glad.h:1339</div></div>
+<div class="ttc" id="ajson_8hpp_html"><div class="ttname"><a href="json_8hpp.html">json.hpp</a></div></div>
 <div class="ttc" id="anamespaceSGL_html"><div class="ttname"><a href="namespaceSGL.html">SGL</a></div><div class="ttdef"><b>Definition</b> camera.h:9</div></div>
 <div class="ttc" id="aobject_8h_html"><div class="ttname"><a href="object_8h.html">object.h</a></div></div>
 <div class="ttc" id="atransform_8h_html"><div class="ttname"><a href="transform_8h.html">transform.h</a></div></div>

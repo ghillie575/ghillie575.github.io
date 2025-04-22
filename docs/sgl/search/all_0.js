@@ -1,13 +1,12 @@
 var searchData=
 [
-  ['actor_0',['actor',['../classSGL_1_1PhysObject.html#a9d461505ae4e41015483d47df2156e5a',1,'SGL::PhysObject']]],
-  ['addbody_1',['addBody',['../classSGL_1_1PhysicsWorld.html#aa07606b9b7efefa3ef65ca65760889c5',1,'SGL::PhysicsWorld']]],
-  ['addcomponent_2',['addcomponent',['../classSGL_1_1GameObject.html#a31587d81425ef0b21ac08c70f507289e',1,'SGL::GameObject::addComponent()'],['../classSGL_1_1SceneObject.html#a94294a6b8d99153e857d1b1778a9eaa4',1,'SGL::SceneObject::addComponent()']]],
-  ['addforce_3',['addForce',['../classRBDynamic.html#a9dd5326b90f82d3ed5efd51a17fd1006',1,'RBDynamic']]],
-  ['addimpulse_4',['addImpulse',['../classRBDynamic.html#a32c42d7ff57c5380e3a95fc5cfb0cb93',1,'RBDynamic']]],
-  ['addobject_5',['addobject',['../classSGL_1_1LayoutManaging_1_1LayoutData.html#acf8e69b22bb07dc1c4025025ffd436c4',1,'SGL::LayoutManaging::LayoutData::addObject()'],['../classSGL_1_1SceneData.html#a435633035384aff49d59b665caa7bd88',1,'SGL::SceneData::addObject()']]],
-  ['addtorque_6',['addTorque',['../classRBDynamic.html#a37439a7500778ed0a0594d70d561a07d',1,'RBDynamic']]],
-  ['aluminum_7',['aluminum',['../namespaceSGL_1_1Materials.html#acbe78c919b7c9fe35a1282296268d1c2',1,'SGL::Materials']]],
-  ['ambient_8',['ambient',['../structSGL_1_1Material.html#afa759ffcc6540e47269f9733982e79f6',1,'SGL::Material']]],
-  ['ambientstrenght_9',['ambientStrenght',['../classSGL_1_1Lightning_1_1Enviroment.html#a808511ed6e4e000dd26b44276669e413',1,'SGL::Lightning::Enviroment']]]
+  ['_3a_3ajson_5fliterals_0',['json_literals',['../namespaceliterals_1_1json__literals.html',1,'']]],
+  ['_3a_3anlohmann_3a_3adetail_3a_3abinary_5freader_1',['binary_reader',['../classbasic__json.html#aa226ed5103dfd10e27e562d35a3a106b',1,'basic_json']]],
+  ['_3a_3anlohmann_3a_3adetail_3a_3abinary_5fwriter_2',['binary_writer',['../classbasic__json.html#a69d491bbda88ade6d3c7a2b11309e8bf',1,'basic_json']]],
+  ['_3a_3anlohmann_3a_3adetail_3a_3aexception_3',['exception',['../classbasic__json.html#abdcb15d025676b4d3db0f32a50f4393f',1,'basic_json']]],
+  ['_3a_3anlohmann_3a_3adetail_3a_3aiter_5fimpl_4',['iter_impl',['../classbasic__json.html#a842e5c7ca096025c18b11e715d3401f4',1,'basic_json']]],
+  ['_3a_3anlohmann_3a_3adetail_3a_3ajson_5fsax_5fdom_5fcallback_5fparser_5',['json_sax_dom_callback_parser',['../classbasic__json.html#a95574da8d12905ea99dc348934c837da',1,'basic_json']]],
+  ['_3a_3anlohmann_3a_3adetail_3a_3ajson_5fsax_5fdom_5fparser_6',['json_sax_dom_parser',['../classbasic__json.html#a47aabb1eceae32e8a6e8e7f0ff34be60',1,'basic_json']]],
+  ['_3a_3anlohmann_3a_3adetail_3a_3aparser_7',['parser',['../classbasic__json.html#ac8f3125911eb018ef4ab00d879487baf',1,'basic_json']]],
+  ['_3a_3anlohmann_3a_3ajson_5fpointer_8',['json_pointer',['../classbasic__json.html#a43f901b14cf3f7135269b0c75c9ac233',1,'basic_json']]]
 ];

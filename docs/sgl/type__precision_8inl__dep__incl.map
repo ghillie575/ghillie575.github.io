@@ -1,0 +1,23 @@
+<map id="include/glm/gtc/type_precision.inl" name="include/glm/gtc/type_precision.inl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="383,5,537,45"/>
+<area shape="rect" id="Node000002" href="$type__precision_8hpp.html" title=" " alt="" coords="383,93,537,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="463,59,463,93,457,93,457,59"/>
+<area shape="rect" id="Node000003" href="$ext_8hpp.html" title=" " alt="" coords="53,269,203,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,117,270,122,164,132,115,141,72,152,38,166,15,183,10,192,8,200,16,220,29,236,45,249,82,267,80,272,42,253,25,240,11,223,3,201,5,190,11,180,35,161,70,147,114,135,164,127,270,116,369,112"/>
+<area shape="rect" id="Node000005" href="$bitfield_8hpp.html" title=" " alt="" coords="255,189,454,214"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="428,144,371,190,368,186,424,140"/>
+<area shape="rect" id="Node000007" href="$gtc_2packing_8hpp.html" title=" " alt="" coords="25,189,231,214"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="375,139,173,191,171,186,373,134"/>
+<area shape="rect" id="Node000008" href="$number__precision_8hpp.html" title=" " alt="" coords="478,181,655,221"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="496,140,545,179,541,183,493,144"/>
+<area shape="rect" id="Node000009" href="$string__cast_8hpp.html" title=" " alt="" coords="679,181,843,221"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="540,135,696,179,695,184,539,140"/>
+<area shape="rect" id="Node000010" href="$gtx_2type__aligned_8hpp.html" title=" " alt="" coords="867,181,1023,221"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="552,126,856,179,867,181,866,186,855,184,551,132"/>
+<area shape="rect" id="Node000004" href="$glm_8cppm.html" title=" " alt="" coords="45,343,211,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,308,131,343,125,343,125,308"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="310,221,162,272,160,267,308,216"/>
+<area shape="rect" id="Node000006" href="$bit_8hpp.html" title=" " alt="" coords="269,269,441,295"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="357,228,357,269,352,269,352,228"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="131,228,131,269,125,269,125,228"/>
+</map>

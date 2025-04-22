@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>SGL: /media/mikhail/Files/Projects/sgl/include/SGL/utils/free_fly_cam.h Source File</title>
+<title>SGL: include/SGL/utils/free_fly_cam.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -75,7 +75,7 @@ $(document).ready(function() { init_codefold(0); });
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><a class="el" href="dir_4b83485c52bddb90038859f9f5f6662f.html">sgl</a></li><li class="navelem"><a class="el" href="dir_118888aaa469264687fc8dc578752e9c.html">include</a></li><li class="navelem"><a class="el" href="dir_a466d98627875005290b48a5e3fc19b0.html">SGL</a></li><li class="navelem"><a class="el" href="dir_93621d7250b64ebe203581a8e9b2d3a1.html">utils</a></li>  </ul>
+<li class="navelem"><a class="el" href="dir_d44c64559bbebec7f509842c48db8b23.html">include</a></li><li class="navelem"><a class="el" href="dir_4f1a1d2e9faa9cea04422f2cd94639e2.html">SGL</a></li><li class="navelem"><a class="el" href="dir_8e0d289ed06d8ae8a56aa203e1882ebd.html">utils</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
@@ -117,17 +117,17 @@ $(document).ready(function() { init_codefold(0); });
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>                    firstMouse = <span class="keyword">false</span>;</div>
 <div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>                }</div>
 <div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>                <span class="keywordtype">float</span> xoffset = xpos - lastX;</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>                <span class="keywordtype">float</span> yoffset = lastY - ypos; <span class="comment">// Reversed since y-coordinates go from bottom to top.</span></div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>                <span class="keywordtype">float</span> <a class="code hl_typedef" href="glad_8h.html#ac20a0ffebf4c476650fcfa0633066f0e">xoffset</a> = xpos - lastX;</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>                <span class="keywordtype">float</span> <a class="code hl_typedef" href="glad_8h.html#a76dfb6803dcff61037ba688b7f4242b8">yoffset</a> = lastY - ypos; <span class="comment">// Reversed since y-coordinates go from bottom to top.</span></div>
 <div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>                lastX = xpos;</div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>                lastY = ypos;</div>
 <div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span> </div>
 <div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>                <span class="keywordtype">float</span> sensitivity = 0.1f; <span class="comment">// Sensitivity of mouse movement.</span></div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>                xoffset *= sensitivity;</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>                yoffset *= sensitivity;</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>                <a class="code hl_typedef" href="glad_8h.html#ac20a0ffebf4c476650fcfa0633066f0e">xoffset</a> *= sensitivity;</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>                <a class="code hl_typedef" href="glad_8h.html#a76dfb6803dcff61037ba688b7f4242b8">yoffset</a> *= sensitivity;</div>
 <div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span> </div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>                yaw += xoffset;</div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>                pitch += yoffset;</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>                yaw += <a class="code hl_typedef" href="glad_8h.html#ac20a0ffebf4c476650fcfa0633066f0e">xoffset</a>;</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>                pitch += <a class="code hl_typedef" href="glad_8h.html#a76dfb6803dcff61037ba688b7f4242b8">yoffset</a>;</div>
 <div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span> </div>
 <div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>                <span class="comment">// Constrain pitch between -89 and 89 degrees to prevent flipping.</span></div>
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>                <span class="keywordflow">if</span> (pitch &gt; 89.0f)</div>
@@ -194,6 +194,8 @@ $(document).ready(function() { init_codefold(0); });
 <div class="ttc" id="aclassSGL_1_1Window_html_a53e2ed99822ebaf8f8a0eb5e860a4f8d"><div class="ttname"><a href="classSGL_1_1Window.html#a53e2ed99822ebaf8f8a0eb5e860a4f8d">SGL::Window::isKeyPressed</a></div><div class="ttdeci">bool isKeyPressed(int key)</div></div>
 <div class="ttc" id="aclassSGL_1_1Window_html_abaf4164bf8f3dd426640d8d67d783085"><div class="ttname"><a href="classSGL_1_1Window.html#abaf4164bf8f3dd426640d8d67d783085">SGL::Window::camera</a></div><div class="ttdeci">Camera camera</div><div class="ttdef"><b>Definition</b> window.h:70</div></div>
 <div class="ttc" id="aclassSGL_1_1Window_html_ac4bcdb24fb78e64a9b793f648327ba65"><div class="ttname"><a href="classSGL_1_1Window.html#ac4bcdb24fb78e64a9b793f648327ba65">SGL::Window::time</a></div><div class="ttdeci">Time time</div><div class="ttdef"><b>Definition</b> window.h:71</div></div>
+<div class="ttc" id="aglad_8h_html_a76dfb6803dcff61037ba688b7f4242b8"><div class="ttname"><a href="glad_8h.html#a76dfb6803dcff61037ba688b7f4242b8">yoffset</a></div><div class="ttdeci">GLint GLint GLint yoffset</div><div class="ttdef"><b>Definition</b> glad.h:1043</div></div>
+<div class="ttc" id="aglad_8h_html_ac20a0ffebf4c476650fcfa0633066f0e"><div class="ttname"><a href="glad_8h.html#ac20a0ffebf4c476650fcfa0633066f0e">xoffset</a></div><div class="ttdeci">GLint GLint xoffset</div><div class="ttdef"><b>Definition</b> glad.h:1040</div></div>
 <div class="ttc" id="anamespaceSGL_html"><div class="ttname"><a href="namespaceSGL.html">SGL</a></div><div class="ttdef"><b>Definition</b> camera.h:9</div></div>
 <div class="ttc" id="awindow_8h_html"><div class="ttname"><a href="window_8h.html">window.h</a></div></div>
 </div><!-- fragment --></div><!-- contents -->

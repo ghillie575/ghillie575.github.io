@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structglm_1_1detail_1_1__swizzle__base0.html" title=" " alt="" coords="5,173,160,213"/>
+<area shape="rect" id="Node000001" href="$structglm_1_1detail_1_1__swizzle__base1.html" title=" " alt="" coords="208,114,384,183"/>
+<area shape="poly" id="edge10_Node000000_Node000001" title=" " alt="" coords="173,171,207,164,209,169,174,177"/>
+<area shape="rect" id="Node000006" href="$structglm_1_1detail_1_1__swizzle__base1.html" title=" " alt="" coords="215,208,377,263"/>
+<area shape="poly" id="edge15_Node000000_Node000006" title=" " alt="" coords="174,208,215,216,214,222,173,213"/>
+<area shape="rect" id="Node000002" href="$structglm_1_1detail_1_1__swizzle__base2.html" title=" " alt="" coords="432,5,640,89"/>
+<area shape="poly" id="edge11_Node000001_Node000002" title=" " alt="" coords="391,106,435,87,437,92,393,111"/>
+<area shape="rect" id="Node000004" href="$structglm_1_1detail_1_1__swizzle__base2.html" title=" " alt="" coords="451,114,621,183"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="397,146,451,146,451,151,397,151"/>
+<area shape="rect" id="Node000005" href="$structglm_1_1detail_1_1__swizzle__base2_3_01N_00_01T_00_01Q_00_01E0_00_01E1_00_01E2_00_01E3_00_011_01_4.html" title=" " alt="" coords="459,208,613,263"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="398,183,460,205,459,210,396,188"/>
+<area shape="rect" id="Node000003" href="$structglm_1_1detail_1_1__swizzle.html" title=" " alt="" coords="688,27,880,67"/>
+<area shape="poly" id="edge12_Node000002_Node000003" title=" " alt="" coords="654,45,688,45,688,50,654,50"/>
+</map>
